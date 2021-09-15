@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <serv>
-        <coodserv>
-                <url>jdbc:sqlserver://localhost;databaseName=DailyYardUnitPosition</url>
-                <username>omar123</username>
-                <password>omar</password>
-        </coodserv>
-    </serv>
